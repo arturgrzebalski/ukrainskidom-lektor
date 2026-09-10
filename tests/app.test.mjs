@@ -79,6 +79,36 @@ test('shows durations of the corrected reception recordings', async () => {
   );
 });
 
+test('uses corrected bilingual reception descriptions', async () => {
+  const manifest = JSON.parse(await readFile(new URL('../audio-manifest.json', import.meta.url), 'utf8'));
+  const entriesById = Object.fromEntries(manifest.map((entry) => [entry.id, entry]));
+
+  assert.deepEqual(
+    Object.fromEntries(['track-122', 'track-123', 'track-124', 'track-125'].map((id) => [id, {
+      uk: entriesById[id].descriptionUk,
+      pl: entriesById[id].descriptionPl,
+    }])),
+    {
+      'track-122': {
+        uk: 'Запрошуємо до рецепції наступну особу, котра має питання стосовно легалізації.',
+        pl: 'Zapraszamy do recepcji następną osobę, która ma pytania dotyczące legalizacji.',
+      },
+      'track-123': {
+        uk: 'Запрошуємо до рецепції наступну особу, котра має питання стосовно роботи.',
+        pl: 'Zapraszamy do recepcji następną osobę, która ma pytania dotyczące pracy.',
+      },
+      'track-124': {
+        uk: 'Запрошуємо до рецепції наступну особу, котра має питання стосовно житла.',
+        pl: 'Zapraszamy do recepcji następną osobę, która ma pytania dotyczące mieszkania.',
+      },
+      'track-125': {
+        uk: 'Запрошуємо до рецепції наступну особу, котра має питання стосовно загальних справ.',
+        pl: 'Zapraszamy do recepcji następną osobę, która ma pytania dotyczące spraw ogólnych.',
+      },
+    },
+  );
+});
+
 test('loads the manifest before an inline module runtime', async () => {
   const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
   const manifestScript = html.indexOf('src="audio-manifest.js"');

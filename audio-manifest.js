@@ -1084,36 +1084,36 @@ globalThis.AUDIO_MANIFEST = [
     "file": "audio/recepcja-legalizacja.mp3",
     "title": "Nagranie 122",
     "durationSeconds": 8,
-    "transcriptUk": "Будь ласка, зверніться до рецепції, до відділу легалізації.",
-    "descriptionUk": "Будь ласка, зверніться до рецепції, до відділу легалізації.",
-    "descriptionPl": "Proszę zgłosić się do recepcji, do działu legalizacji."
+    "transcriptUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно легалізації.",
+    "descriptionUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно легалізації.",
+    "descriptionPl": "Zapraszamy do recepcji następną osobę, która ma pytania dotyczące legalizacji."
   },
   {
     "id": "track-123",
     "file": "audio/recepcja-zatrudnienie.mp3",
     "title": "Nagranie 123",
     "durationSeconds": 7,
-    "transcriptUk": "Будь ласка, зверніться до рецепції, до виділу працевлаштування.",
-    "descriptionUk": "Будь ласка, зверніться до рецепції, до виділу працевлаштування.",
-    "descriptionPl": "Proszę zgłosić się do recepcji, do działu zatrudnienia."
+    "transcriptUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно роботи.",
+    "descriptionUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно роботи.",
+    "descriptionPl": "Zapraszamy do recepcji następną osobę, która ma pytania dotyczące pracy."
   },
   {
     "id": "track-124",
     "file": "audio/recepcja-mieszkania.mp3",
     "title": "Nagranie 124",
     "durationSeconds": 7,
-    "transcriptUk": "Будь ласка, зверніться до рецепції до відділу житлових питань.",
-    "descriptionUk": "Будь ласка, зверніться до рецепції до відділу житлових питань.",
-    "descriptionPl": "Prosimy skontaktować się z departamentem do spraw mieszkaniowych."
+    "transcriptUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно житла.",
+    "descriptionUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно житла.",
+    "descriptionPl": "Zapraszamy do recepcji następną osobę, która ma pytania dotyczące mieszkania."
   },
   {
     "id": "track-125",
     "file": "audio/recepcja-sprawy-ogolne.mp3",
     "title": "Nagranie 125",
     "durationSeconds": 8,
-    "transcriptUk": "Будь ласка, зверніться до рецепції, до відділу загальних справ.",
-    "descriptionUk": "Будь ласка, зверніться до рецепції, до відділу загальних справ.",
-    "descriptionPl": "Proszę skontaktować się z działem spraw ogólnych."
+    "transcriptUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно загальних справ.",
+    "descriptionUk": "Запрошуємо до рецепції наступну особу, котра має питання стосовно загальних справ.",
+    "descriptionPl": "Zapraszamy do recepcji następną osobę, która ma pytania dotyczące spraw ogólnych."
   },
   {
     "id": "track-l025",

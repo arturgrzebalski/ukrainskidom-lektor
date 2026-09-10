@@ -59,7 +59,7 @@ class BuildManifestTests(unittest.TestCase):
         self.assertEqual(descriptions["track-067"], "Zapraszamy, numer O, 006.")
         self.assertEqual(
             descriptions["track-122"],
-            "Proszę zgłosić się do recepcji, do działu legalizacji.",
+            "Zapraszamy do recepcji następną osobę, która ma pytania dotyczące legalizacji.",
         )
         self.assertNotIn("track-126", descriptions)
 
