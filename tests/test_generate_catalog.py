@@ -4,9 +4,43 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 
 from scripts.generate_catalog import build_manifest, write_manifest
+from scripts.rename_audio import rename_audio_files
 
 
 class BuildManifestTests(unittest.TestCase):
+    def test_rename_audio_files_uses_queue_codes_and_descriptive_names(self):
+        """A queue-code transcription must rename its MP3 and manifest reference together."""
+        entries = [
+            {
+                "id": "track-003",
+                "file": "eleven-l001.mp3",
+                "transcriptUk": "Запрошуємо номер Л-001.",
+            },
+            {
+                "id": "track-001",
+                "file": "eleven-wait.mp3",
+                "transcriptUk": "Будь ласка, зачекайте!",
+            },
+        ]
+
+        with TemporaryDirectory() as directory:
+            project = Path(directory)
+            for entry in entries:
+                (project / entry["file"]).write_bytes(b"audio")
+            manifest = project / "audio-manifest.json"
+            manifest.write_text(json.dumps(entries, ensure_ascii=False), encoding="utf-8")
+
+            rename_audio_files(project, manifest)
+
+            renamed_entries = json.loads(manifest.read_text(encoding="utf-8"))
+            self.assertEqual(
+                [entry["file"] for entry in renamed_entries],
+                ["audio/L001.mp3", "audio/prosze-czekac.mp3"],
+            )
+            self.assertTrue((project / "audio" / "L001.mp3").is_file())
+            self.assertTrue((project / "audio" / "prosze-czekac.mp3").is_file())
+            self.assertFalse((project / "eleven-l001.mp3").exists())
+            self.assertIn("audio/L001.mp3", (project / "audio-manifest.js").read_text(encoding="utf-8"))
     def test_checked_in_manifest_preserves_corrected_polish_descriptions(self):
         manifest = json.loads(
             (Path(__file__).resolve().parent.parent / "audio-manifest.json").read_text(

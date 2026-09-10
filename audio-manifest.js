@@ -1,7 +1,7 @@
 globalThis.AUDIO_MANIFEST = [
   {
     "id": "track-001",
-    "file": "ElevenLabs_2026-09-09T08_42_07_Solomiya Vitlitska - Podcast Pro_pvc_sp72_s31_sb37_se10_b_m2.mp3",
+    "file": "audio/prosze-czekac.mp3",
     "title": "Nagranie 001",
     "durationSeconds": 2,
     "transcriptUk": "Будь ласка, зачекайте!",
@@ -10,7 +10,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-002",
-    "file": "ElevenLabs_2026-09-09T08_44_15_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/recepcja.mp3",
     "title": "Nagranie 002",
     "durationSeconds": 4,
     "transcriptUk": "Будь ласка, зверніться до рецепції!",
@@ -19,7 +19,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-003",
-    "file": "ElevenLabs_2026-09-09T08_44_52_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L001.mp3",
     "title": "Nagranie 003",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер Л-001.",
@@ -28,7 +28,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-004",
-    "file": "ElevenLabs_2026-09-09T08_45_04_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L002.mp3",
     "title": "Nagranie 004",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L002.",
@@ -37,7 +37,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-005",
-    "file": "ElevenLabs_2026-09-09T08_45_16_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L003.mp3",
     "title": "Nagranie 005",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L003.",
@@ -46,7 +46,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-006",
-    "file": "ElevenLabs_2026-09-09T08_45_27_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L004.mp3",
     "title": "Nagranie 006",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер Л004",
@@ -55,7 +55,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-007",
-    "file": "ElevenLabs_2026-09-09T08_45_40_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L005.mp3",
     "title": "Nagranie 007",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L005.",
@@ -64,7 +64,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-008",
-    "file": "ElevenLabs_2026-09-09T08_45_50_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L006.mp3",
     "title": "Nagranie 008",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L006.",
@@ -73,7 +73,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-009",
-    "file": "ElevenLabs_2026-09-09T08_46_03_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L007.mp3",
     "title": "Nagranie 009",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер l007.",
@@ -82,7 +82,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-010",
-    "file": "ElevenLabs_2026-09-09T08_46_18_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L008.mp3",
     "title": "Nagranie 010",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L008.",
@@ -91,7 +91,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-011",
-    "file": "ElevenLabs_2026-09-09T08_46_31_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L009.mp3",
     "title": "Nagranie 011",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L009",
@@ -100,7 +100,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-012",
-    "file": "ElevenLabs_2026-09-09T08_49_43_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L010.mp3",
     "title": "Nagranie 012",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер L010.",
@@ -109,7 +109,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-013",
-    "file": "ElevenLabs_2026-09-09T08_50_04_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L011.mp3",
     "title": "Nagranie 013",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер Л-011.",
@@ -118,7 +118,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-014",
-    "file": "ElevenLabs_2026-09-09T08_50_17_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L012.mp3",
     "title": "Nagranie 014",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер L012.",
@@ -127,7 +127,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-015",
-    "file": "ElevenLabs_2026-09-09T08_50_35_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L013.mp3",
     "title": "Nagranie 015",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L013.",
@@ -136,7 +136,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-016",
-    "file": "ElevenLabs_2026-09-09T08_50_50_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L014.mp3",
     "title": "Nagranie 016",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L014.",
@@ -145,7 +145,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-017",
-    "file": "ElevenLabs_2026-09-09T08_52_01_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L015.mp3",
     "title": "Nagranie 017",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер L015.",
@@ -154,7 +154,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-018",
-    "file": "ElevenLabs_2026-09-09T08_52_13_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L016.mp3",
     "title": "Nagranie 018",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер L016.",
@@ -163,7 +163,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-019",
-    "file": "ElevenLabs_2026-09-09T08_52_41_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L017.mp3",
     "title": "Nagranie 019",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер L017.",
@@ -172,7 +172,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-020",
-    "file": "ElevenLabs_2026-09-09T08_52_55_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L018.mp3",
     "title": "Nagranie 020",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L018.",
@@ -181,7 +181,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-021",
-    "file": "ElevenLabs_2026-09-09T08_53_10_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L019.mp3",
     "title": "Nagranie 021",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L019.",
@@ -190,7 +190,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-022",
-    "file": "ElevenLabs_2026-09-09T08_53_31_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L020.mp3",
     "title": "Nagranie 022",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L020.",
@@ -199,7 +199,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-023",
-    "file": "ElevenLabs_2026-09-09T08_53_46_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L021.mp3",
     "title": "Nagranie 023",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L021.",
@@ -208,7 +208,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-024",
-    "file": "ElevenLabs_2026-09-09T08_54_12_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L022.mp3",
     "title": "Nagranie 024",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L022.",
@@ -217,7 +217,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-025",
-    "file": "ElevenLabs_2026-09-09T08_54_35_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L023.mp3",
     "title": "Nagranie 025",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L023.",
@@ -226,7 +226,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-026",
-    "file": "ElevenLabs_2026-09-09T08_54_50_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L024.mp3",
     "title": "Nagranie 026",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L024.",
@@ -235,7 +235,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-027",
-    "file": "ElevenLabs_2026-09-09T08_55_11_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L026.mp3",
     "title": "Nagranie 027",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер L026.",
@@ -244,7 +244,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-028",
-    "file": "ElevenLabs_2026-09-09T08_55_24_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L027.mp3",
     "title": "Nagranie 028",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L027",
@@ -253,7 +253,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-029",
-    "file": "ElevenLabs_2026-09-09T08_55_47_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L028.mp3",
     "title": "Nagranie 029",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L028.",
@@ -262,7 +262,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-030",
-    "file": "ElevenLabs_2026-09-09T08_56_05_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L029.mp3",
     "title": "Nagranie 030",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер Л029.",
@@ -271,7 +271,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-031",
-    "file": "ElevenLabs_2026-09-09T08_56_25_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/L030.mp3",
     "title": "Nagranie 031",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L030.",
@@ -280,7 +280,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-033",
-    "file": "ElevenLabs_2026-09-09T08_57_09_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M001.mp3",
     "title": "Nagranie 033",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер M001.",
@@ -289,7 +289,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-034",
-    "file": "ElevenLabs_2026-09-09T08_57_30_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M002.mp3",
     "title": "Nagranie 034",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер M002.",
@@ -298,7 +298,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-035",
-    "file": "ElevenLabs_2026-09-09T08_57_47_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M003.mp3",
     "title": "Nagranie 035",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М003.",
@@ -307,7 +307,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-036",
-    "file": "ElevenLabs_2026-09-09T08_58_06_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M004.mp3",
     "title": "Nagranie 036",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер M004",
@@ -316,7 +316,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-037",
-    "file": "ElevenLabs_2026-09-09T08_58_25_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M005.mp3",
     "title": "Nagranie 037",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М005.",
@@ -325,7 +325,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-038",
-    "file": "ElevenLabs_2026-09-09T08_58_55_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M006.mp3",
     "title": "Nagranie 038",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер M006.",
@@ -334,7 +334,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-039",
-    "file": "ElevenLabs_2026-09-09T08_59_11_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M007.mp3",
     "title": "Nagranie 039",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М007.",
@@ -343,7 +343,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-040",
-    "file": "ElevenLabs_2026-09-09T08_59_34_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M008.mp3",
     "title": "Nagranie 040",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М008.",
@@ -352,7 +352,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-041",
-    "file": "ElevenLabs_2026-09-09T08_59_55_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M009.mp3",
     "title": "Nagranie 041",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер M009.",
@@ -361,7 +361,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-042",
-    "file": "ElevenLabs_2026-09-09T09_00_28_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M010.mp3",
     "title": "Nagranie 042",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М-010.",
@@ -370,7 +370,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-043",
-    "file": "ElevenLabs_2026-09-09T09_01_01_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M012.mp3",
     "title": "Nagranie 043",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М012.",
@@ -379,7 +379,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-044",
-    "file": "ElevenLabs_2026-09-09T09_01_15_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M013.mp3",
     "title": "Nagranie 044",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер М-013.",
@@ -388,7 +388,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-045",
-    "file": "ElevenLabs_2026-09-09T09_01_28_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M014.mp3",
     "title": "Nagranie 045",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М014.",
@@ -397,7 +397,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-046",
-    "file": "ElevenLabs_2026-09-09T09_01_41_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M015.mp3",
     "title": "Nagranie 046",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М015.",
@@ -406,7 +406,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-047",
-    "file": "ElevenLabs_2026-09-09T09_02_11_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M016.mp3",
     "title": "Nagranie 047",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М016.",
@@ -415,7 +415,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-048",
-    "file": "ElevenLabs_2026-09-09T09_02_24_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M017.mp3",
     "title": "Nagranie 048",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М017.",
@@ -424,7 +424,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-049",
-    "file": "ElevenLabs_2026-09-09T09_02_45_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M018.mp3",
     "title": "Nagranie 049",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер М018.",
@@ -433,7 +433,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-050",
-    "file": "ElevenLabs_2026-09-09T09_02_58_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M019.mp3",
     "title": "Nagranie 050",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М019.",
@@ -442,7 +442,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-051",
-    "file": "ElevenLabs_2026-09-09T09_03_11_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M020.mp3",
     "title": "Nagranie 051",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер М020.",
@@ -451,7 +451,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-052",
-    "file": "ElevenLabs_2026-09-09T09_03_39_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M021.mp3",
     "title": "Nagranie 052",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М021.",
@@ -460,7 +460,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-053",
-    "file": "ElevenLabs_2026-09-09T09_03_56_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M022.mp3",
     "title": "Nagranie 053",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М022.",
@@ -469,7 +469,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-054",
-    "file": "ElevenLabs_2026-09-09T09_04_23_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M023.mp3",
     "title": "Nagranie 054",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М023.",
@@ -478,7 +478,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-055",
-    "file": "ElevenLabs_2026-09-09T09_04_47_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M024.mp3",
     "title": "Nagranie 055",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М024.",
@@ -487,7 +487,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-056",
-    "file": "ElevenLabs_2026-09-09T09_06_36_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M025.mp3",
     "title": "Nagranie 056",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М025.",
@@ -496,7 +496,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-057",
-    "file": "ElevenLabs_2026-09-09T09_06_48_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M026.mp3",
     "title": "Nagranie 057",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М026.",
@@ -505,7 +505,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-058",
-    "file": "ElevenLabs_2026-09-09T09_07_10_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M027.mp3",
     "title": "Nagranie 058",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М027.",
@@ -514,7 +514,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-059",
-    "file": "ElevenLabs_2026-09-09T09_08_05_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M028.mp3",
     "title": "Nagranie 059",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М028.",
@@ -523,7 +523,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-060",
-    "file": "ElevenLabs_2026-09-09T09_08_20_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M029.mp3",
     "title": "Nagranie 060",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер М029.",
@@ -532,7 +532,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-061",
-    "file": "ElevenLabs_2026-09-09T09_08_34_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/M030.mp3",
     "title": "Nagranie 061",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер М030.",
@@ -541,7 +541,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-062",
-    "file": "ElevenLabs_2026-09-09T09_08_54_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O001.mp3",
     "title": "Nagranie 062",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О001.",
@@ -550,7 +550,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-063",
-    "file": "ElevenLabs_2026-09-09T09_09_23_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O002.mp3",
     "title": "Nagranie 063",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О002.",
@@ -559,7 +559,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-064",
-    "file": "ElevenLabs_2026-09-09T09_09_37_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O003.mp3",
     "title": "Nagranie 064",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О003.",
@@ -568,7 +568,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-065",
-    "file": "ElevenLabs_2026-09-09T09_09_51_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O004.mp3",
     "title": "Nagranie 065",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О004.",
@@ -577,7 +577,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-066",
-    "file": "ElevenLabs_2026-09-09T09_10_10_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O005.mp3",
     "title": "Nagranie 066",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О, 005.",
@@ -586,7 +586,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-067",
-    "file": "ElevenLabs_2026-09-09T09_10_38_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O006.mp3",
     "title": "Nagranie 067",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О, 006.",
@@ -595,7 +595,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-068",
-    "file": "ElevenLabs_2026-09-09T09_10_59_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O007.mp3",
     "title": "Nagranie 068",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О007.",
@@ -604,7 +604,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-069",
-    "file": "ElevenLabs_2026-09-09T09_11_37_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O008.mp3",
     "title": "Nagranie 069",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О, 008?",
@@ -613,7 +613,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-070",
-    "file": "O009.mp3",
+    "file": "audio/O009.mp3",
     "title": "Nagranie 070",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер «О-009»",
@@ -622,7 +622,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-071",
-    "file": "ElevenLabs_2026-09-09T09_12_37_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O010.mp3",
     "title": "Nagranie 071",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-010.",
@@ -631,7 +631,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-072",
-    "file": "ElevenLabs_2026-09-09T09_13_08_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O011.mp3",
     "title": "Nagranie 072",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О011.",
@@ -640,7 +640,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-073",
-    "file": "ElevenLabs_2026-09-09T09_13_35_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O012.mp3",
     "title": "Nagranie 073",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О012.",
@@ -649,7 +649,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-074",
-    "file": "ElevenLabs_2026-09-09T09_13_51_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O013.mp3",
     "title": "Nagranie 074",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-013.",
@@ -658,7 +658,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-075",
-    "file": "ElevenLabs_2026-09-09T09_14_09_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O014.mp3",
     "title": "Nagranie 075",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О, 014.",
@@ -667,7 +667,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-076",
-    "file": "ElevenLabs_2026-09-09T09_14_23_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O015.mp3",
     "title": "Nagranie 076",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О, 015.",
@@ -676,7 +676,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-077",
-    "file": "ElevenLabs_2026-09-09T09_14_41_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O016.mp3",
     "title": "Nagranie 077",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-016.",
@@ -685,7 +685,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-078",
-    "file": "ElevenLabs_2026-09-09T09_14_58_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O017.mp3",
     "title": "Nagranie 078",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О017.",
@@ -694,7 +694,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-079",
-    "file": "ElevenLabs_2026-09-09T09_15_18_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O018.mp3",
     "title": "Nagranie 079",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-018.",
@@ -703,7 +703,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-080",
-    "file": "ElevenLabs_2026-09-09T09_15_34_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O019.mp3",
     "title": "Nagranie 080",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-019.",
@@ -712,7 +712,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-081",
-    "file": "ElevenLabs_2026-09-09T09_15_49_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O020.mp3",
     "title": "Nagranie 081",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-020.",
@@ -721,7 +721,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-082",
-    "file": "ElevenLabs_2026-09-09T09_16_10_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O021.mp3",
     "title": "Nagranie 082",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-021.",
@@ -730,7 +730,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-083",
-    "file": "ElevenLabs_2026-09-09T09_16_24_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O022.mp3",
     "title": "Nagranie 083",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О022.",
@@ -739,7 +739,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-084",
-    "file": "ElevenLabs_2026-09-09T09_16_37_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O023.mp3",
     "title": "Nagranie 084",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-023.",
@@ -748,7 +748,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-085",
-    "file": "ElevenLabs_2026-09-09T09_16_59_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O024.mp3",
     "title": "Nagranie 085",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-024.",
@@ -757,7 +757,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-086",
-    "file": "ElevenLabs_2026-09-09T09_17_11_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O025.mp3",
     "title": "Nagranie 086",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-025.",
@@ -766,7 +766,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-087",
-    "file": "ElevenLabs_2026-09-09T09_17_23_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O026.mp3",
     "title": "Nagranie 087",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-026.",
@@ -775,7 +775,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-088",
-    "file": "ElevenLabs_2026-09-09T09_17_37_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O027.mp3",
     "title": "Nagranie 088",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-027.",
@@ -784,7 +784,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-089",
-    "file": "ElevenLabs_2026-09-09T09_17_54_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O028.mp3",
     "title": "Nagranie 089",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О-028.",
@@ -793,7 +793,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-090",
-    "file": "ElevenLabs_2026-09-09T09_18_16_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O029.mp3",
     "title": "Nagranie 090",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер О, 029.",
@@ -802,7 +802,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-091",
-    "file": "ElevenLabs_2026-09-09T09_18_31_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/O030.mp3",
     "title": "Nagranie 091",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер О-030.",
@@ -811,7 +811,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-092",
-    "file": "ElevenLabs_2026-09-09T09_19_25_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P001.mp3",
     "title": "Nagranie 092",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P001.",
@@ -820,7 +820,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-093",
-    "file": "ElevenLabs_2026-09-09T09_19_49_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P002.mp3",
     "title": "Nagranie 093",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P002.",
@@ -829,7 +829,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-094",
-    "file": "ElevenLabs_2026-09-09T09_20_08_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P003.mp3",
     "title": "Nagranie 094",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P003.",
@@ -838,7 +838,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-095",
-    "file": "ElevenLabs_2026-09-09T09_20_32_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P004.mp3",
     "title": "Nagranie 095",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-004.",
@@ -847,7 +847,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-096",
-    "file": "ElevenLabs_2026-09-09T09_20_48_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P005.mp3",
     "title": "Nagranie 096",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-005.",
@@ -856,7 +856,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-097",
-    "file": "ElevenLabs_2026-09-09T09_21_04_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P006.mp3",
     "title": "Nagranie 097",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P006.",
@@ -865,7 +865,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-098",
-    "file": "ElevenLabs_2026-09-09T09_21_32_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P007.mp3",
     "title": "Nagranie 098",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P007.",
@@ -874,7 +874,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-099",
-    "file": "ElevenLabs_2026-09-09T09_21_52_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P008.mp3",
     "title": "Nagranie 099",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P008.",
@@ -883,7 +883,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-100",
-    "file": "ElevenLabs_2026-09-09T09_22_19_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P009.mp3",
     "title": "Nagranie 100",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-009.",
@@ -892,7 +892,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-101",
-    "file": "ElevenLabs_2026-09-09T09_23_12_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P010.mp3",
     "title": "Nagranie 101",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-010.",
@@ -901,7 +901,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-102",
-    "file": "ElevenLabs_2026-09-09T09_23_27_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P011.mp3",
     "title": "Nagranie 102",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P011",
@@ -910,7 +910,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-103",
-    "file": "ElevenLabs_2026-09-09T09_23_50_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P012.mp3",
     "title": "Nagranie 103",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-012.",
@@ -919,7 +919,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-104",
-    "file": "ElevenLabs_2026-09-09T09_24_06_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P013.mp3",
     "title": "Nagranie 104",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-013.",
@@ -928,7 +928,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-105",
-    "file": "ElevenLabs_2026-09-09T09_24_36_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P014.mp3",
     "title": "Nagranie 105",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-014.",
@@ -937,7 +937,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-106",
-    "file": "ElevenLabs_2026-09-09T09_24_53_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P015.mp3",
     "title": "Nagranie 106",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-015.",
@@ -946,7 +946,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-107",
-    "file": "ElevenLabs_2026-09-09T09_25_29_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P016.mp3",
     "title": "Nagranie 107",
     "durationSeconds": 3,
     "transcriptUk": "Запрошуємо номер П, 016.",
@@ -955,7 +955,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-108",
-    "file": "ElevenLabs_2026-09-09T09_25_48_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P017.mp3",
     "title": "Nagranie 108",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-017",
@@ -964,7 +964,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-109",
-    "file": "ElevenLabs_2026-09-09T09_26_10_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P018.mp3",
     "title": "Nagranie 109",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-018.",
@@ -973,7 +973,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-110",
-    "file": "ElevenLabs_2026-09-09T09_26_23_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P019.mp3",
     "title": "Nagranie 110",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-019.",
@@ -982,7 +982,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-111",
-    "file": "ElevenLabs_2026-09-09T09_26_36_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P020.mp3",
     "title": "Nagranie 111",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-020.",
@@ -991,7 +991,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-112",
-    "file": "ElevenLabs_2026-09-09T09_27_06_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P021.mp3",
     "title": "Nagranie 112",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-021.",
@@ -1000,7 +1000,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-113",
-    "file": "ElevenLabs_2026-09-09T09_27_20_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P022.mp3",
     "title": "Nagranie 113",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер P022.",
@@ -1009,7 +1009,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-114",
-    "file": "ElevenLabs_2026-09-09T09_27_34_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P023.mp3",
     "title": "Nagranie 114",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-023.",
@@ -1018,7 +1018,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-115",
-    "file": "ElevenLabs_2026-09-09T09_27_49_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P024.mp3",
     "title": "Nagranie 115",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П, 024.",
@@ -1027,7 +1027,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-116",
-    "file": "ElevenLabs_2026-09-09T09_28_01_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P025.mp3",
     "title": "Nagranie 116",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-025.",
@@ -1036,7 +1036,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-117",
-    "file": "ElevenLabs_2026-09-09T09_28_14_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P026.mp3",
     "title": "Nagranie 117",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-026.",
@@ -1045,7 +1045,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-118",
-    "file": "ElevenLabs_2026-09-09T09_28_51_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P027.mp3",
     "title": "Nagranie 118",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П, 027.",
@@ -1054,7 +1054,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-119",
-    "file": "ElevenLabs_2026-09-09T09_29_06_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P028.mp3",
     "title": "Nagranie 119",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П, 028.",
@@ -1063,7 +1063,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-120",
-    "file": "ElevenLabs_2026-09-09T09_29_18_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P029.mp3",
     "title": "Nagranie 120",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П-029.",
@@ -1072,7 +1072,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-121",
-    "file": "ElevenLabs_2026-09-09T09_29_32_Solomiya Vitlitska - Podcast Pro_pvc_sp73_s90_sb40_se0_b_m2.mp3",
+    "file": "audio/P030.mp3",
     "title": "Nagranie 121",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер П, 0,30.",
@@ -1081,7 +1081,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-122",
-    "file": "ElevenLabs_2026-09-09T09_32_14_Solomiya Vitlitska - Podcast Pro_pvc_sp70_s94_sb40_se0_b_m2.mp3",
+    "file": "audio/recepcja-legalizacja.mp3",
     "title": "Nagranie 122",
     "durationSeconds": 5,
     "transcriptUk": "Будь ласка, зверніться до рецепції, до відділу легалізації.",
@@ -1090,7 +1090,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-123",
-    "file": "ElevenLabs_2026-09-09T09_33_51_Solomiya Vitlitska - Podcast Pro_pvc_sp70_s94_sb40_se0_b_m2.mp3",
+    "file": "audio/recepcja-zatrudnienie.mp3",
     "title": "Nagranie 123",
     "durationSeconds": 5,
     "transcriptUk": "Будь ласка, зверніться до рецепції, до виділу працевлаштування.",
@@ -1099,7 +1099,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-124",
-    "file": "ElevenLabs_2026-09-09T09_34_32_Solomiya Vitlitska - Podcast Pro_pvc_sp70_s94_sb40_se0_b_m2.mp3",
+    "file": "audio/recepcja-mieszkania.mp3",
     "title": "Nagranie 124",
     "durationSeconds": 5,
     "transcriptUk": "Будь ласка, зверніться до рецепції до відділу житлових питань.",
@@ -1108,7 +1108,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-125",
-    "file": "ElevenLabs_2026-09-09T09_35_27_Solomiya Vitlitska - Podcast Pro_pvc_sp70_s94_sb40_se0_b_m2.mp3",
+    "file": "audio/recepcja-sprawy-ogolne.mp3",
     "title": "Nagranie 125",
     "durationSeconds": 5,
     "transcriptUk": "Будь ласка, зверніться до рецепції, до відділу загальних справ.",
@@ -1117,7 +1117,7 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-l025",
-    "file": "L025.mp3",
+    "file": "audio/L025.mp3",
     "title": "L-025",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер L-025.",
@@ -1126,11 +1126,11 @@ globalThis.AUDIO_MANIFEST = [
   },
   {
     "id": "track-m011",
-    "file": "M011.mp3",
+    "file": "audio/M011.mp3",
     "title": "M-011",
     "durationSeconds": 4,
     "transcriptUk": "Запрошуємо номер M-011.",
     "descriptionUk": "Запрошуємо номер M-011.",
     "descriptionPl": "Zapraszamy numer M-011."
   }
-];
+]

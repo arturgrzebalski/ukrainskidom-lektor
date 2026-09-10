@@ -38,11 +38,20 @@ test('uses the replacement O-009 file and adds L-025 plus M-011', async () => {
   const manifest = JSON.parse(await readFile(new URL('../audio-manifest.json', import.meta.url), 'utf8'));
   const byId = Object.fromEntries(manifest.map((entry) => [entry.id, entry]));
 
-  assert.equal(byId['track-070'].file, 'O009.mp3');
-  assert.equal(byId['track-l025'].file, 'L025.mp3');
-  assert.equal(byId['track-m011'].file, 'M011.mp3');
+  assert.equal(byId['track-070'].file, 'audio/O009.mp3');
+  assert.equal(byId['track-l025'].file, 'audio/L025.mp3');
+  assert.equal(byId['track-m011'].file, 'audio/M011.mp3');
   assert.equal(groupForEntry(byId['track-l025']), 'L');
   assert.equal(groupForEntry(byId['track-m011']), 'M');
+});
+
+test('stores every manifest recording in the audio directory', async () => {
+  const manifest = JSON.parse(await readFile(new URL('../audio-manifest.json', import.meta.url), 'utf8'));
+
+  for (const entry of manifest) {
+    assert.match(entry.file, /^audio\/.+\.mp3$/, `${entry.id} should use the audio directory`);
+    await access(new URL(`../${entry.file}`, import.meta.url));
+  }
 });
 
 test('loads the manifest before an inline module runtime', async () => {
