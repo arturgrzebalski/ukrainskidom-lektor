@@ -98,7 +98,7 @@ function initializeCatalog() {
       catalog.append(empty);
       return;
     }
-    ['L', 'M', 'O', 'P', 'Pozostałe'].forEach((group) => {
+    ['Pozostałe', 'L', 'M', 'O', 'P'].forEach((group) => {
       const groupEntries = visibleEntries.filter((entry) => groupForEntry(entry) === group);
       if (!groupEntries.length) return;
       const section = document.createElement('section');

@@ -73,6 +73,12 @@ test('loads the manifest before an inline module runtime', async () => {
   );
 });
 
+test('shows remaining recordings before numbered service groups', async () => {
+  const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
+
+  assert.match(html, /\['Pozostałe', 'L', 'M', 'O', 'P'\]\.forEach\(\(group\) =>/);
+});
+
 test('inline runtime preserves button focus and accessible dynamic language state', async () => {
   const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
   const runtime = html.slice(html.indexOf('<script type="module">'));
