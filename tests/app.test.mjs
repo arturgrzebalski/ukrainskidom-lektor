@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 import { access, readFile } from 'node:fs/promises';
 import { textFor, formatDuration, filterEntries, groupForEntry, statusText, renderStatus } from '../app.js';
 
@@ -52,6 +53,30 @@ test('stores every manifest recording in the audio directory', async () => {
     assert.match(entry.file, /^audio\/.+\.mp3$/, `${entry.id} should use the audio directory`);
     await access(new URL(`../${entry.file}`, import.meta.url));
   }
+});
+
+test('uses the corrected reception recordings', async () => {
+  const replacements = {
+    'audio/recepcja-legalizacja.mp3': '2321938a9dae01e968c21d968ad43c1e0fff6b8f942bf88cf908b92cd20a1b5e',
+    'audio/recepcja-zatrudnienie.mp3': '1641ea78d28262f2094fdeff897b4ab9898134c1f6559f93db986d57c751b69f',
+    'audio/recepcja-mieszkania.mp3': '347ef00446751fed0b3b0aa0452861f385b4a7e61c98be90adba9f67d4dc5a5a',
+    'audio/recepcja-sprawy-ogolne.mp3': '3241c9736b9964ee0d78697abaecd43453139ffdb91b0e084c33d9199bc1c1de',
+  };
+
+  for (const [file, expectedHash] of Object.entries(replacements)) {
+    const contents = await readFile(new URL(`../${file}`, import.meta.url));
+    assert.equal(createHash('sha256').update(contents).digest('hex'), expectedHash, file);
+  }
+});
+
+test('shows durations of the corrected reception recordings', async () => {
+  const manifest = JSON.parse(await readFile(new URL('../audio-manifest.json', import.meta.url), 'utf8'));
+  const durations = Object.fromEntries(manifest.map((entry) => [entry.id, entry.durationSeconds]));
+
+  assert.deepEqual(
+    Object.fromEntries(['track-122', 'track-123', 'track-124', 'track-125'].map((id) => [id, durations[id]])),
+    { 'track-122': 8, 'track-123': 7, 'track-124': 7, 'track-125': 8 },
+  );
 });
 
 test('loads the manifest before an inline module runtime', async () => {
